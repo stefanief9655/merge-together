@@ -7,6 +7,6 @@ to
 go
 home
 yet?
-helloc
+hello
 
-brain loves rice cripsy .
+When will Brian get his rice cripsy?
