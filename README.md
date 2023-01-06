@@ -9,4 +9,4 @@ home
 yet?
 helloc
 
-When will Brian get his rice cripsy ÷
+brain loves rice cripsy .
