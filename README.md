@@ -7,6 +7,6 @@ to
 go
 home
 yet?
-helloc
+hello
 
-When will Brian get his rice cripsy ÷
+When will Brian get his rice cripsy?
