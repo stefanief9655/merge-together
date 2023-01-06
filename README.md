@@ -1,9 +1,9 @@
 # merge-together
 
-is
+Is
 it
 time
 to
 go
 home
-yet
+yet?
